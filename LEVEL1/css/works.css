@@ -1,0 +1,40 @@
+.works{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1f 1fr;
+}
+.work{
+    border: white solid 1px;
+    box-sizing: border-box;
+    padding-top: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.work:nth-child(1) {
+    background-image:url(../img/rectangle418.png);
+}
+.work:nth-child(2){
+    background-image:url(../img/rectangle56.png);
+}
+.work:nth-child(3){
+    background-image:url(../img/rectangle_3_copy_4_453.png);
+}
+    
+.work:nth-child(4){
+    background-image:url(../img/rectangle420.png); 
+}
+.work:nth-child(5){
+    background-image:url(../img/rectangle437.png); 
+}
+.work:nth-child(6){
+    background-image:url(../img/rectangle441.png);
+}  
+.work:nth-child(7){
+    background-image:url(../img/rectangle445.png);
+   
+}
+.work:nth-child(8){
+    background-image:url(../img/rectangle_3_copy_4_453.png);
+    
+}

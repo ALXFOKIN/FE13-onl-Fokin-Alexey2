@@ -1,0 +1,22 @@
+
+
+.features{
+    display: grid;
+    grid-template-rows: 1fr 1fr ;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 412px;
+    margin-right: 412px;
+}
+.feature{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+}
+
+
+.download{
+    display: flex;
+    justify-content: center;
+}
+

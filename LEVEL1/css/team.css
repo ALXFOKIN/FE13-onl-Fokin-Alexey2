@@ -1,0 +1,30 @@
+.team{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    margin-top: 100px;
+}
+.employee-foto1{
+    background-image: url(../img/layer_7_65.png);
+    padding-top: 50%;
+    background-repeat: no-repeat;
+}
+.employee-foto2{
+    background-image: url(../img/layer_7_65.png);
+    padding-top: 50%;
+    background-repeat: no-repeat;
+}
+.employee-foto3{
+    background-image: url(../img/layer_7_65.png);
+    padding-top: 50%;
+    background-repeat: no-repeat;
+}
+.employee-foto4{
+    background-image: url(../img/layer_7_65.png);
+    padding-top: 50%;
+    background-repeat: no-repeat;
+}
+.fab{
+    padding: 15px;
+    border: solid black 1px;
+}
